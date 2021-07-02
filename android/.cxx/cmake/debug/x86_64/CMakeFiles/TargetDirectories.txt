@@ -1,0 +1,3 @@
+/Users/slals/projects/brightweb/react-native-secp256k1/android/.cxx/cmake/debug/x86_64/CMakeFiles/edit_cache.dir
+/Users/slals/projects/brightweb/react-native-secp256k1/android/.cxx/cmake/debug/x86_64/CMakeFiles/rebuild_cache.dir
+/Users/slals/projects/brightweb/react-native-secp256k1/android/.cxx/cmake/debug/x86_64/CMakeFiles/secp256k1.dir

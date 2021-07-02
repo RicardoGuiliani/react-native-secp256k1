@@ -1,0 +1,9 @@
+# ninja log v5
+1	100	0	CMakeFiles/secp256k1.dir/external/secp256k1/src/java/org_bitcoin_Secp256k1Context.c.o	6c200a629990a2f0
+0	140	0	CMakeFiles/secp256k1.dir/external/secp256k1/src/java/org_bitcoin_NativeSecp256k1.c.o	f047c0963c5dfe67
+1	610	0	CMakeFiles/secp256k1.dir/external/secp256k1/src/secp256k1.c.o	f5176b03a1123d75
+610	717	0	../../../../build/intermediates/cmake/debug/obj/x86_64/libsecp256k1.so	4b091b16876a32c4
+3	109	0	CMakeFiles/secp256k1.dir/external/secp256k1/src/java/org_bitcoin_Secp256k1Context.c.o	6c200a629990a2f0
+2	166	0	CMakeFiles/secp256k1.dir/external/secp256k1/src/java/org_bitcoin_NativeSecp256k1.c.o	f047c0963c5dfe67
+3	746	0	CMakeFiles/secp256k1.dir/external/secp256k1/src/secp256k1.c.o	f5176b03a1123d75
+747	829	0	../../../../build/intermediates/cmake/debug/obj/x86_64/libsecp256k1.so	4b091b16876a32c4

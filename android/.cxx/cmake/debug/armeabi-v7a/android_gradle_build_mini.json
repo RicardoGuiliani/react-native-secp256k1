@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "/Users/slals/projects/brightweb/react-native-secp256k1/android/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/slals/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/slals/projects/brightweb/react-native-secp256k1/android/.cxx/cmake/debug/armeabi-v7a --target clean"
+  ],
+  "libraries": {
+    "secp256k1-Debug-armeabi-v7a": {
+      "artifactName": "secp256k1",
+      "buildCommand": "/Users/slals/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/slals/projects/brightweb/react-native-secp256k1/android/.cxx/cmake/debug/armeabi-v7a --target secp256k1",
+      "abi": "armeabi-v7a",
+      "output": "/Users/slals/projects/brightweb/react-native-secp256k1/android/build/intermediates/cmake/debug/obj/armeabi-v7a/libsecp256k1.so"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "react-native-secp256k1",
+  "title": "React Native Secp256k1",
+  "version": "1.0.0",
+  "description": "bitcoin-core/secp256k1 working with react-native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "grep -e url -e path .gitmodules | sed 's/.*= //' | while read path; do read url; if [  -z \"$(ls -A $path)\" ]; then git clone $url $path/.; fi; done"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RicardoGuiliani/react-native-secp256k1.git",
+    "baseUrl": "https://github.com/RicardoGuiliani/react-native-secp256k1"
+  },
+  "keywords": [
+    "react-native",
+    "secp256k1",
+    "bitcoin-secp256k1"
+  ],
+  "author": {
+    "name": "Yujun 'fingera' Liu"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  }
+}

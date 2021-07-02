@@ -1,0 +1,11 @@
+# ninja log v5
+1	171	0	CMakeFiles/secp256k1.dir/external/secp256k1/src/java/org_bitcoin_Secp256k1Context.c.o	d6f37edc7da87fdc
+0	225	0	CMakeFiles/secp256k1.dir/external/secp256k1/src/java/org_bitcoin_NativeSecp256k1.c.o	940a11e5366ea6c5
+3	582	0	CMakeFiles/secp256k1.dir/external/secp256k1/src/java/org_bitcoin_Secp256k1Context.c.o	53f381dde4b4a84a
+1	618	0	CMakeFiles/secp256k1.dir/external/secp256k1/src/java/org_bitcoin_NativeSecp256k1.c.o	abc0e53b303e06c8
+4	2452	0	CMakeFiles/secp256k1.dir/external/secp256k1/src/secp256k1.c.o	5d79db2eb1e9594d
+2452	2566	0	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libsecp256k1.so	85662ff9fdd2cf89
+16	566	0	CMakeFiles/secp256k1.dir/external/secp256k1/src/java/org_bitcoin_Secp256k1Context.c.o	53f381dde4b4a84a
+15	608	0	CMakeFiles/secp256k1.dir/external/secp256k1/src/java/org_bitcoin_NativeSecp256k1.c.o	abc0e53b303e06c8
+18	2399	0	CMakeFiles/secp256k1.dir/external/secp256k1/src/secp256k1.c.o	5d79db2eb1e9594d
+2400	2510	0	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libsecp256k1.so	85662ff9fdd2cf89

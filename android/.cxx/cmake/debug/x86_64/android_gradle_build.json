@@ -1,0 +1,53 @@
+
+{
+	"buildFiles" : 
+	[
+		"/Users/slals/projects/brightweb/react-native-secp256k1/android/CMakeLists.txt"
+	],
+	"cFileExtensions" : [ "c" ],
+	"cleanCommands" : 
+	[
+		"/Users/slals/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/slals/projects/brightweb/react-native-secp256k1/android/.cxx/cmake/debug/x86_64 --target clean"
+	],
+	"libraries" : 
+	{
+		"secp256k1-Debug-x86_64" : 
+		{
+			"abi" : "x86_64",
+			"artifactName" : "secp256k1",
+			"buildCommand" : "/Users/slals/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/slals/projects/brightweb/react-native-secp256k1/android/.cxx/cmake/debug/x86_64 --target secp256k1",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=x86_64-none-linux-android21 --gcc-toolchain=/Users/slals/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/slals/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DECMULT_GEN_PREC_BITS=4 -DECMULT_WINDOW_SIZE=15 -DENABLE_MODULE_ECDH=1 -DENABLE_MODULE_RECOVERY=1 -DUSE_FIELD_10X26=1 -DUSE_FIELD_INV_BUILTIN=1 -DUSE_NUM_NONE=1 -DUSE_SCALAR_8X32=1 -DUSE_SCALAR_INV_BUILTIN=1 -Dsecp256k1_EXPORTS -I../../../.././external/secp256k1 -I../../../.././external/secp256k1/src  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -std=gnu90    -c ",
+					"src" : "/Users/slals/projects/brightweb/react-native-secp256k1/android/external/secp256k1/src/java/org_bitcoin_NativeSecp256k1.c",
+					"workingDirectory" : "/Users/slals/projects/brightweb/react-native-secp256k1/android/.cxx/cmake/debug/x86_64"
+				},
+				
+				{
+					"flags" : "  --target=x86_64-none-linux-android21 --gcc-toolchain=/Users/slals/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/slals/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DECMULT_GEN_PREC_BITS=4 -DECMULT_WINDOW_SIZE=15 -DENABLE_MODULE_ECDH=1 -DENABLE_MODULE_RECOVERY=1 -DUSE_FIELD_10X26=1 -DUSE_FIELD_INV_BUILTIN=1 -DUSE_NUM_NONE=1 -DUSE_SCALAR_8X32=1 -DUSE_SCALAR_INV_BUILTIN=1 -Dsecp256k1_EXPORTS -I../../../.././external/secp256k1 -I../../../.././external/secp256k1/src  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -std=gnu90    -c ",
+					"src" : "/Users/slals/projects/brightweb/react-native-secp256k1/android/external/secp256k1/src/java/org_bitcoin_Secp256k1Context.c",
+					"workingDirectory" : "/Users/slals/projects/brightweb/react-native-secp256k1/android/.cxx/cmake/debug/x86_64"
+				},
+				
+				{
+					"flags" : "  --target=x86_64-none-linux-android21 --gcc-toolchain=/Users/slals/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/slals/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DECMULT_GEN_PREC_BITS=4 -DECMULT_WINDOW_SIZE=15 -DENABLE_MODULE_ECDH=1 -DENABLE_MODULE_RECOVERY=1 -DUSE_FIELD_10X26=1 -DUSE_FIELD_INV_BUILTIN=1 -DUSE_NUM_NONE=1 -DUSE_SCALAR_8X32=1 -DUSE_SCALAR_INV_BUILTIN=1 -Dsecp256k1_EXPORTS -I../../../.././external/secp256k1 -I../../../.././external/secp256k1/src  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -std=gnu90    -c ",
+					"src" : "/Users/slals/projects/brightweb/react-native-secp256k1/android/external/secp256k1/src/secp256k1.c",
+					"workingDirectory" : "/Users/slals/projects/brightweb/react-native-secp256k1/android/.cxx/cmake/debug/x86_64"
+				}
+			],
+			"output" : "/Users/slals/projects/brightweb/react-native-secp256k1/android/build/intermediates/cmake/debug/obj/x86_64/libsecp256k1.so",
+			"toolchain" : "16475437104089829657"
+		}
+	},
+	"toolchains" : 
+	{
+		"16475437104089829657" : 
+		{
+			"cCompilerExecutable" : "/Users/slals/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Users/slals/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}

@@ -1,0 +1,70 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "/Users/slals/projects/brightweb/react-native-secp256k1/example/android",
+      "sdkFolder": "/Users/slals/Library/Android/sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "/Users/slals/projects/brightweb/react-native-secp256k1/android/build/intermediates",
+      "gradleModulePathName": ":react-native-secp256k1",
+      "moduleRootFolder": "/Users/slals/projects/brightweb/react-native-secp256k1/android",
+      "makeFile": "/Users/slals/projects/brightweb/react-native-secp256k1/android/CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "/Users/slals/projects/brightweb/react-native-secp256k1/example/android/.cxx",
+      "cxxFolder": "/Users/slals/projects/brightweb/react-native-secp256k1/android/.cxx",
+      "ndkFolder": "/Users/slals/Library/Android/sdk/ndk/21.1.6352462",
+      "ndkVersion": "21.1.6352462",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [],
+    "variantName": "debug",
+    "soFolder": "/Users/slals/projects/brightweb/react-native-secp256k1/android/build/intermediates/cmake/debug/lib",
+    "objFolder": "/Users/slals/projects/brightweb/react-native-secp256k1/android/build/intermediates/cmake/debug/obj",
+    "jsonFolder": "/Users/slals/projects/brightweb/react-native-secp256k1/android/.cxx/cmake/debug",
+    "gradleBuildOutputFolder": "/Users/slals/projects/brightweb/react-native-secp256k1/android/.cxx/cxx/debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "X86_64",
+  "abiPlatformVersion": 16,
+  "cxxBuildFolder": "/Users/slals/projects/brightweb/react-native-secp256k1/android/.cxx/cmake/debug/x86_64",
+  "jsonFile": "/Users/slals/projects/brightweb/react-native-secp256k1/android/.cxx/cmake/debug/x86_64/android_gradle_build.json",
+  "gradleBuildOutputFolder": "/Users/slals/projects/brightweb/react-native-secp256k1/android/.cxx/cxx/debug/x86_64",
+  "objFolder": "/Users/slals/projects/brightweb/react-native-secp256k1/android/build/intermediates/cmake/debug/obj/x86_64",
+  "buildCommandFile": "/Users/slals/projects/brightweb/react-native-secp256k1/android/.cxx/cmake/debug/x86_64/build_command.txt",
+  "buildOutputFile": "/Users/slals/projects/brightweb/react-native-secp256k1/android/.cxx/cmake/debug/x86_64/build_output.txt",
+  "modelOutputFile": "/Users/slals/projects/brightweb/react-native-secp256k1/android/.cxx/cmake/debug/x86_64/build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "/Users/slals/projects/brightweb/react-native-secp256k1/android/.cxx/cxx/debug/x86_64/CMakeLists.txt",
+    "toolchainWrapperFile": "/Users/slals/projects/brightweb/react-native-secp256k1/android/.cxx/cxx/debug/x86_64/android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "/Users/slals/projects/brightweb/react-native-secp256k1/android/.cxx/cxx/debug/x86_64/build_generation_state.json",
+    "cacheKeyFile": "/Users/slals/projects/brightweb/react-native-secp256k1/android/.cxx/cxx/debug/x86_64/compiler_cache_key.json",
+    "compilerCacheUseFile": "/Users/slals/projects/brightweb/react-native-secp256k1/android/.cxx/cxx/debug/x86_64/compiler_cache_use.json",
+    "compilerCacheWriteFile": "/Users/slals/projects/brightweb/react-native-secp256k1/android/.cxx/cxx/debug/x86_64/compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "/Users/slals/projects/brightweb/react-native-secp256k1/android/.cxx/cxx/debug/x86_64/compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "/Users/slals/projects/brightweb/react-native-secp256k1/android/.cxx/cmake/debug/x86_64/json_generation_record.json",
+  "compileCommandsJsonFile": "/Users/slals/projects/brightweb/react-native-secp256k1/android/.cxx/cmake/debug/x86_64/compile_commands.json"
+}
