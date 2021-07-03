@@ -1,4 +1,0 @@
-[submodule "android/external/secp256k1"]
-	path = android/external/secp256k1
-	url = https://github.com/ACINQ/secp256k1.git
-	branch = master
