@@ -73,7 +73,7 @@ async function main() {
    const decryped1 = await secp256k1.ext.decryptECDH(privB, pubA, encryped1);
    console.log(decryped1);
 
-   // all: https://github.com/fingera/react-native-secp256k1-demo
+   // all: https://github.com/RicardoGuiliani/react-native-secp256k1-demo
 }
 
 main()
