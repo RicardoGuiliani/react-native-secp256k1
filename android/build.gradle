@@ -64,5 +64,5 @@ repositories {
 dependencies {
     //noinspection GradleDynamicVersion
     implementation "com.facebook.react:react-native:+" // From node_modules
-    implementation "com.google.guava:guava:29.0-android"
+    implementation "com.google.guava:guava:31.0.1-android"
 }
